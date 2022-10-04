@@ -1,7 +1,3 @@
-# This package is archived and is no longer maintained!
-
-If you decide to maintain a fork, please contact me and I'll gladly share your repo here for people to use instead.
-
 # Laravel Paypal / Laravel Cashier
 
 This package adds several components to your Laravel Paypal Admin panel to help you with managing customer subscriptions, it works hand
