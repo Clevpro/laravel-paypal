@@ -1,2 +1,2 @@
 # Laravel Paypal REST API
-##Developed By Clevpro
+#Developed By Clevpro Team
